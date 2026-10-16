@@ -1,0 +1,4 @@
+repository:
+  homepage: https://awesomeosint.tools/assay/
+  description: "OSINT reputation database and AML check for public crypto addresses."
+  topics: osint, aml, crypto, address-reputation, risk-score, compliance
